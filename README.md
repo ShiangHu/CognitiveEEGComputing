@@ -5,5 +5,5 @@ Training workshop for Division of Psychology, Southwest University in the 13th C
 
 Select a journal to track https://www.letpub.com.cn/index.php?page=journalapp<br>
 中国计算机学会推荐国际学术会议和期刊目录（2022） https://ccf.atom.im/<br>
-CCF deadline ccfddl.com<br>
+CCF deadline 截稿日期 [ccfddl.com](https://ccfddl.com/)<br>
 关注人工智能、交叉新兴方向<br>
